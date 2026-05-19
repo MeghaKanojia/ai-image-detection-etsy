@@ -2,7 +2,7 @@
 
 A three-phase comparative study of **hybrid feature extraction** and **end-to-end fine-tuning** for binary classification of AI-generated vs. authentic product images, achieving a best validation **F1 score of 0.9356** with ConvNeXt-Base.
 
-> **Context:** Built for the Advanced Machine Learning module (MSc Computing — Data Analytics, DCU). The dataset is proprietary Etsy marketplace data and cannot be redistributed. `submission.csv` is excluded from this repository.
+> **Context:** The dataset is proprietary Etsy marketplace data and cannot be redistributed. `submission.csv` is excluded from this repository.
 
 ---
 
